@@ -3,12 +3,14 @@
   "displayName": "codepen-dark",
   "description": "Code pen inspired theme for react developers",
   "version": "0.0.1",
+  "publisher": "https://github.com/gau2107",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": "github:gau2107/codepen-dark",
   "contributes": {
     "themes": [
       {
