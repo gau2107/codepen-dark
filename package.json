@@ -1,0 +1,21 @@
+{
+  "name": "codepen-dark",
+  "displayName": "codepen-dark",
+  "description": "Code pen inspired theme for react developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codepen Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codepen Dark-color-theme.json"
+      }
+    ]
+  }
+}
